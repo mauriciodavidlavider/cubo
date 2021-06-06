@@ -1,3 +1,6 @@
+#Mauricio Estrella
+#https://www.instagram.com/mauriciolavider/
+
 from machine import I2C, Pin
 import math
 import gfx
